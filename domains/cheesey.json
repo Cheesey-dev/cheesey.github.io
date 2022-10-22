@@ -1,0 +1,12 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/Cheesey-dev/cheesey.github.io",
+    "owner": {
+        "username": "Cheesey-dev",
+        "email": "email@address",
+        "twitter": "Cheesey"
+    },
+    "record": {
+        "CNAME": "cheesey.github.io"
+    }
+} 
